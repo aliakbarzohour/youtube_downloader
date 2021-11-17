@@ -8,5 +8,5 @@ print(Fore.GREEN+'\n i trying concten to '+url)
 video = YouTube(url)
 stream = video.streams.get_highest_resolution()
 
-locate = input(Fore.BLUE+' [ ? ] '+Fore.WHITE+'location for Download video : ')
-stream.download(output_path = locate)
+#locate = input(Fore.BLUE+' [ ? ] '+Fore.WHITE+'location for Download video : ')
+stream.download()
