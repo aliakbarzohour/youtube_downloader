@@ -16,8 +16,10 @@ This library allows you to adjust the quality of video, audio and other things a
 Result
 
 It was a mini-project that was fun for me to implement, and I hope it was fun for Python developers as well. If you like writing in other languages, you can search the relevant libraries. You can do the same for a backend and a website and well that is a separation project in itself ..
-
-<img src="https://img.shields.io/badge/-See the full article-lightblue?style=for-the-badge" />
-## Click the link below to see the full article in Persian.
- <a href="https://virgool.io/@aliakbar.zohour/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%88%DB%8C%D8%AF%D8%A6%D9%88-%D8%A7%D8%B2-%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-xcldilko6brj">Virgool.io</a>
+</p>
+<p align='center'>
+    
+<img src="https://img.shields.io/badge/-See the full article-lightblue?style=for-the-badge"/>
+    Click the link below to see the full article in Persian.
+    <a href="https://virgool.io/@aliakbar.zohour/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%88%DB%8C%D8%AF%D8%A6%D9%88-%D8%A7%D8%B2-%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-xcldilko6brj">Virgool.io</a>
 </p>
