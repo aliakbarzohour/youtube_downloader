@@ -8,5 +8,16 @@ With this library, you can download videos on YouTube (there may be other uses, 
 
     Note: You can not download with Iran Internet, because it is filtered. You can use a proxy. . .
 
-After finishing the project, I searched and saw that an Indian programmer introduced the 'proxy' library, which creates a proxy for you, and you can use it in such projects.
+After finishing the project, I searched and saw that an Indian programmer introduced the 'proxy' library, which creates a proxy for you, and you can use it in such projects. 
+    
+<hr/>
+
+This library allows you to adjust the quality of video, audio and other things and then download it, and if you work more professionally, you can create a GUI environment for it and convert it to an .exe file and enjoy. If you want to have the same project more beautiful, you can see my Gateway (I will put the link at the end of the article).
+Result
+
+It was a mini-project that was fun for me to implement, and I hope it was fun for Python developers as well. If you like writing in other languages, you can search the relevant libraries. You can do the same for a backend and a website and well that is a separation project in itself ..
+
+<img src="See the full article"/>
+## 
+<a></a>
 </p>
